@@ -1,15 +1,14 @@
-- [中文](README.md)
-- [English](README_EN.md)
+# ZMK для Corne от Eyelash Peripherals
 
-# 睫毛外设 (Eyelash Peripherals) Corne ZMK 仓库
+> [!IMPORTANT]
+> Эта клавиатура отличается от оригинальной [Corne от foostan](https://github.com/foostan/crkbd) и несовместима со стандартной прошивкой.
 
-**该键盘与 [foostan's Corne](https://github.com/foostan/crkbd) 不同，无法与标准的 `corne` 固件兼容。**
+![Фото Corne от Eyelash Peripherals](https://ae01.alicdn.com/kf/Sa797fee25edd44248fbfdb0e13d44e00B.jpg)
 
-![睫毛外设 Corne 的照片](https://ae01.alicdn.com/kf/Sa797fee25edd44248fbfdb0e13d44e00B.jpg)
++ 2026.6.22: Добавлена частичная поддержка изменения раскладки через [DYA Studio](https://github.com/cormoran/dya-studio).
 
--2026/6/22 键盘支持DYA STUDIO改键了中文用户联系店主索取中文版DYA STUDIO安装包。这个上位机软件改键比ZMK studio更好用。
-
-如果您需要该键盘的 3D 模型，请发送电子邮件至 `380465425@qq.com`。
+> [!IMPORTANT]
+> Если вам нужна 3D-модель клавиатуры, свяжитесь с автором оригинального репозитория по электронной почте [380465425@qq.com](mailto:380465425@qq.com).
 
 ## 使用说明
 
